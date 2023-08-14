@@ -1,2 +1,2 @@
 # springBoot-dataJpa
-java-code-repo
+java-code-repo for git commands demonstration
